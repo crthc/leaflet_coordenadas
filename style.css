@@ -1,0 +1,23 @@
+.row{
+    height: 600px;
+}
+#mapid{
+    height: 400px;
+    width: 600px;
+    position: relative;
+}
+
+#map2{
+    height: 400px;
+    width: 600px;
+    position: relative;
+}
+
+.fa-taxi{
+    font-size: 80px;
+}
+
+.taxi2{
+    color: brown;
+    font-size: 80px;
+}
